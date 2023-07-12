@@ -1,4 +1,4 @@
-# Hava Durumu
-Bu bir Openweathermap API kullanılarak oluşturulan hava durunu projesidir.
+# Weather APP
+This is a weather forecast project created using the Openweathermap API.
 
-Örnek: https://onurkul.com.tr/araclar/hava-durumu/
+Example: https://onurkul.com.tr/araclar/hava-durumu/
